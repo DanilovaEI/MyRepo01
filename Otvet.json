@@ -1,0 +1,48 @@
+{
+    "result": {
+        "client": {
+            "client_1": {
+                "rules": [
+                    "rule_2"
+                ],
+                "countOpenLiability": 2,
+                "countCloseLiability": 1,
+                "sumDelays": 2500,
+                "statusCH": "B",
+                "arrayLiability": [
+                    "V445B4",
+                    "V45V24BB56B",
+                    "F452V-454"
+                ]
+            },
+            "client_2": {
+                "rules": [
+                    "rule_1"
+                ],
+                "countOpenLiability": 3,
+                "countCloseLiability": 0,
+                "sumDelays": 26000,
+                "statusCH": "B",
+                "arrayLiability": [
+                    "SDF-S4B44-RTB",
+                    "V24-VRQ-DV",
+                    "2-CQE-RV-EW3"
+                ]
+            },
+            "client_3": {
+                "rules": [
+                    "rule_4"
+                ],
+                "countOpenLiability": 0,
+                "countCloseLiability": 3,
+                "sumDelays": 0,
+                "statusCH": "G",
+                "arrayLiability": [
+                    "24C-4-V4",
+                    "V-2-4RTV-24-V-13V",
+                    "CSDF-BW"
+                ]
+            }
+        }
+    }
+}
